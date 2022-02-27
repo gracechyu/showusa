@@ -1,10 +1,4 @@
-/**
- *  ShowUSA.java
- *  Provide a description here.
- *  @author Your Name Here
- *  @version 1.0
- *  @since 8/30/2016
- */
+
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Color;
