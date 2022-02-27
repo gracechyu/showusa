@@ -32,9 +32,7 @@ public class ShowUSA extends JFrame
 	}
 }
 
-/**
- *  Add comments.
- */
+
 class GetAndDrawCities extends JPanel 
 {
 	private static final int PREF_W = 1000;
